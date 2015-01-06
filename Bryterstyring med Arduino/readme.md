@@ -1,4 +1,4 @@
-Bryterstyring med Arduino [Norwegian]
-=====================================
+Bryterstyring med Arduino
+=========================
 
-[Youtube link](https://www.youtube.com/watch?v=0UFk8U2z5pY)
+[Youtube link](https://www.youtube.com/watch?v=0UFk8U2z5pY).

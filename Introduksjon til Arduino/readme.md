@@ -1,4 +1,4 @@
-Introduksjon til Arduino [Norwegian]
-====================================
+Introduksjon til Arduino
+========================
 
-[Youtube link](https://www.youtube.com/watch?v=JvQeZPxYPCI)
+[Youtube link](https://www.youtube.com/watch?v=JvQeZPxYPCI).
